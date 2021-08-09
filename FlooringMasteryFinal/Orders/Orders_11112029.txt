@@ -1,0 +1,3 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+7,Sindhu,Calfornia,25.00,Tile,1450,3.50,4.15,5075.00,6017.50,11092.50,22185.00
+8,testnew,Texas,4.45,Tile,1450,3.50,4.15,5075.00,6017.50,11092.50,22185.00

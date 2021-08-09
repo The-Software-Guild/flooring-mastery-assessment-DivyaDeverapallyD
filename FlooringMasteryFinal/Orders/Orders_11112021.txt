@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+2,Navya,Texas,4.45,Tile,1200,3.50,4.15,4200.00,4980.00,9180.00,18360.00
